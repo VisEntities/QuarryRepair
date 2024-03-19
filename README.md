@@ -1,4 +1,3 @@
-# QuarryRepair
 This plugin makes deployable quarries and pump jacks repairable, a feature surprisingly missing from the base game due to quarries being no longer craftable. It replicates the game's native repair mechanics, ensuring that repairing feels identical to repairing any other deployable.
 
 In the config, you can specify the amount of health to restore with each hammer hit as well as the resources to consume from the player's inventory.
